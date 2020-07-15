@@ -1,4 +1,4 @@
-const apiKey = 'pXETHNzzcPzTWsMlzpOAuIEJy1Uw83goHZpoK69h1Vqct5GQ4jkV2ussyM1Gw_A20VxMMKt3v6HbLnwPgnruWi-k7sHHjvfngnkReIq07fnldvNooWEB7o1A1UTrXnYx';
+const apiKey = 'removed for security reasons :)';
 //http://gobetween.oklabs.org/
 //https://cors-anywhere.herokuapp.com/
 //http://www.whateverorigin.org/get?url=
